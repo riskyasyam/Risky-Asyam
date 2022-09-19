@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Risky-Asyam
+- 👋 Hi, I’m Rizky Asyam
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Big Data
 - 💞️ I’m looking to collaborate on company
