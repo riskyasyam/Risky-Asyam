@@ -1,3 +1,4 @@
+![logo](https://github.com/Risky-Asyam/Risky-Asyam/blob/main/Banner%20Github.png)
 <h1 align="center">Hi 👋, I'm Muhammad Rizky Asyam Haidar</h1>
 <h3 align="center">UI/UX, Front End Developer</h3>
 
